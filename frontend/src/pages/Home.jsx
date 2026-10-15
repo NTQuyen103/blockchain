@@ -17,7 +17,7 @@ export default function Home() {
       {/* Hero + trạng thái ví */}
       <section className="relative overflow-hidden bg-[radial-gradient(ellipse_at_top_right,#3b1d8f66,transparent_60%)]">
         <div className="mx-auto max-w-7xl px-4 py-20">
-          <h1 className="font-title max-w-2xl text-5xl leading-tight text-ink md:text-6xl">Quyên helo Khai phá sức mạnh của các vị thần</h1>
+          <h1 className="font-title max-w-2xl text-5xl leading-tight text-ink md:text-6xl">Khai phá sức mạnh của các vị thần</h1>
           <p className="mt-5 max-w-xl text-mute">Mỗi chiếc hộp chứa đựng linh hồn chiến binh huyền thoại sẵn sàng phục vụ dưới trướng của bạn.</p>
           <div className="mt-8 flex flex-wrap items-center gap-3">
             <Link to="/mystery-box" className="btn-arcane">Khám phá ngay</Link>
